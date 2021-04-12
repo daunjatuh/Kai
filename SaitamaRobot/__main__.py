@@ -75,13 +75,13 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
+Haloo {}, Namaku {}! 
 
-×× I am an Anime themed group management bot ××
+★Aku Bisa Membantu Anda Mengelola Grup★
+-----------------------------------------
+`Owner By:` @no_internet_connection
 ==========================
-`Maintained By` @Anomaliii
-==========================
-×× Find the list of available commands with /help ××
+×× untuk melihat semua comamnd silahkan /help ××
 """
 
 HELP_STRINGS = """
@@ -96,8 +96,7 @@ HELP_STRINGS = """
 """
 
 
-KAI_IMG = "https://telegra.ph/file/805d67c52c6ee73003d1e.jpg"
-
+KAI_IMG = "https://telegra.ph/file/32a628d69fa0031ba5b72.jpg"
 DONATE_STRING = """× I'm Free for Everyone ×"""
 
 IMPORTED = {}
